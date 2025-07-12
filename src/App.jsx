@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './App.css';
-import Container from '/component/container';
+import Container from './component/container';
 
 function App() {
   const [activeIndex, setActiveIndex] = useState(0);
